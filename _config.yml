@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/jasonkongie/jasonkongie.github.io/blob/master/images/profile.jpg?raw=true"
+  avatar           : "https://github.com/jasonkongie/jasonkongie.github.io/blob/master/images/profile_pic.JPG/raw=true"
   name             : "Jason Kong"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering student at UC San Diego"
