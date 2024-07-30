@@ -7,9 +7,6 @@ tags:
   - ancient wonders
   - architecture
 ---
-SAMPLE:
-
-
 The Tower of Babel is one of the most intriguing and enigmatic structures mentioned in ancient texts. Its story, found in the Book of Genesis, has fascinated scholars and historians for centuries. In this blog post, we will delve into the myths, historical accounts, and architectural significance of this legendary tower.
 
 ## The Legend of the Tower
@@ -20,7 +17,7 @@ According to the biblical narrative, the Tower of Babel was constructed by human
 
 While the Tower of Babel's exact location and existence remain subjects of debate, some historians believe it may have been inspired by the ziggurats of Mesopotamia. These massive, tiered structures were built by ancient civilizations in present-day Iraq and Iran. The Etemenanki, a ziggurat dedicated to the god Marduk in Babylon, is often cited as a possible real-world counterpart to the Tower of Babel.
 
-![Tower of Babel](/Users/jasonkongie/Documents/jasonkongie/images/tower_babel.jpg)
+![Tower of Babel](https://github.com/jasonkongie/jasonkongie.github.io/blob/master/images/tower_babel.jpg?raw=true)
 
 ## Architectural Significance
 
