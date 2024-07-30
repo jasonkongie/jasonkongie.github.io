@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jason Kong, a 2nd-year undergrad student in the CSE department at UC San Diego, working under the guidance of Professor. Tajana Rosing. My research focuses on hardware-software co-design and LLM systems. 
+I am Jason Kong, a 2nd-year undergrad student in the CSE department at UC San Diego, working under the guidance of Professor. Tajana Rosing. My research focuses on hardware-software co-design and LLM systems. To hear frequent updates and research ideas on my end, follow me on [𝕏](https://jasonkongie.com/x). 
 
 **Current Research**
 ======
