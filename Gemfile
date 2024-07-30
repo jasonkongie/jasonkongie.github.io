@@ -32,3 +32,5 @@ gem "webrick", "~> 1.8"
 
 
 gem "jekyll-include-cache", group: :jekyll_plugins
+
+gem 'jekyll-redirect-from'
