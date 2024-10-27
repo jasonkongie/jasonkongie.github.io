@@ -6,7 +6,7 @@ tags:
   - LLM Evaluation
 ---
 
-##It is just a matter of time before A.I. surpasses all humans in intelligence. The question isn't how, but when. 
+## It is just a matter of time before A.I. surpasses all humans in intelligence. The question isn't how, but when. 
 
 ## **If A.I. could solve every math, coding, and science problems, how do we evaluate A.I, with our own insufficiency in knowledge?** *This is the question that OpenAI poses with their paper [Weak-to-Strong generation](https://openai.com/index/weak-to-strong-generalization/).*
 
