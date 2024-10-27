@@ -20,7 +20,7 @@ I always love The Matrix. It really poses an existential question to us all: Are
 
 Maybe, just maybe, we are living in a simulation that the (real) Sam Altman tries to create. Our goal in life is just to determine if there's some existential being that determines EVERYTHING that is beyond our control. Basically, if there's a God. 
 
-Personally, I think this question bugs everyone. Everything aren't sure. Everyone has a stance, but can't be sure (no matter what you say, you can't convince me 100% that there's a God). Maybe, there's what we want to accomplish with A.I:
+Personally, I think this question bugs everyone. Everyone aren't sure. Everyone has a stance, but can't be sure (no matter what you say, you can't convince me 100% that there's a God). Maybe, there's what we want to accomplish with A.I:
 
 **An A.I. that is all-knowing, but can be tamed.**
 
