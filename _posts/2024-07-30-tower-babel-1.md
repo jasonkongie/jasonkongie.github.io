@@ -33,7 +33,7 @@ Here's my proposal:
 2. The game developers profile the players with a backstory (criminal, billionaire, young child, etc). Creators can create society.  
 3. The goal of the players will be unbeknownst to the A.I. Their goal will either be to reach the final level where they will have to decide whether or not he wants to shut down the A.I. They will determine the goodness of A.I. 
 
-**A.I will either deter the player or believe the goodness of the playe**
+**A.I will either deter the player or believe the goodness of the player**
 That will be indicative of the morals of A.I.
 
 
