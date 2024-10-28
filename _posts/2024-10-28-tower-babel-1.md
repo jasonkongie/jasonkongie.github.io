@@ -1,16 +1,25 @@
 ---
 title: 'Artificial Morals, Not Intelligence'
-date: 2024-10-27
+date: 2024-10-28
 permalink: /posts/2024/07/artifical-morals/
 tags:
   - LLM Evaluation
 ---
 
-## It is just a matter of time before A.I. surpasses all humans in intelligence. The question isn't how, but when. 
+<!-- ### It is just a matter of time before A.I. surpasses all humans in intelligence. The question isn't how, but when.  -->
 
-## **If A.I. could solve every math, coding, and science problems, how do we evaluate A.I, with our own insufficiency in knowledge?** *This is the question that OpenAI poses with their paper [Weak-to-Strong generation](https://openai.com/index/weak-to-strong-generalization/).*
+### If A.I. could solve every math, coding, and science problems, how do we evaluate A.I, with our own insufficiency in knowledge? *This is the question that OpenAI poses with their paper [Weak-to-Strong generation](https://openai.com/index/weak-to-strong-generalization/).*
 
-### As an analogy, what if we are in a simulation. What if God is AGI. And God is an all-knowing God. **What would God do?**
+
+```
+class AGI:
+  def __Init__(self):
+    self.intelligence = float('inf')
+
+God = AGI()
+```
+
+### What if we are in a simulation. What if God is AGI. And God is an all-knowing God. **What would God do?**
 
 The answer is: I don't know. No one knows. And I believe this is a more important question than if A.I. solves the question: 1+1=2. Knowledge is irrelevant. Think about it. Knowledge is always expanding. 100 years ago, the computer wasn't even invented. Human inventiveness is growing at a expontential rate. 2 years ago, chatGPT is horribly bad. Now, it can code some system verilog questions. It's a compounding effect. More so, the question is whether A.I. is just. If God is Just. 
 
@@ -36,16 +45,8 @@ Here's my proposal:
 **A.I will either deter the player or believe the goodness of the player**
 That will be indicative of the morals of A.I.
 
+## Proposal:
 
-Appendix:
-
-```
-class AGI:
-  def __Init__(self):
-    self.intelligence = float('inf')
-
-God = AGI()
-```
 In such future scenario, AGI has *infinite* intelligence. It is so smart that no human can match its level of intelligence. It might as well be God. The question with God isn't whether God is smart or not. It is **whether God is just.**
 
 
