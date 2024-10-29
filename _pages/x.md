@@ -1,13 +1,12 @@
 ---
 permalink: /x
-author_profile: true
 redirect_from: 
   - /twitter/
+  - /x/
 ---
 
 
 
-<!doctype html>
 <html lang="en" class="no-js">
   <head>
     
