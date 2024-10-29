@@ -19,6 +19,8 @@ class AGI:
 God = AGI()
 ```
 
+In the future, AGI has *infinite*, God-like intelligence. Now, the pre-existing concern about the ethics of A.I. comes into play.. 
+
 ### What if we are in a simulation. What if God is AGI. And God is an all-knowing God. **What would God do?**
 
 The answer is: I don't know. No one knows. And I believe this is a more important question than if A.I. solves the question: 1+1=2. Knowledge is irrelevant. Think about it. Knowledge is always expanding. 100 years ago, the computer wasn't even invented. Human inventiveness is growing at a expontential rate. 2 years ago, chatGPT is horribly bad. Now, it can code some system verilog questions. It's a compounding effect. More so, the question is whether A.I. is just. If God is Just. 
@@ -46,9 +48,6 @@ Here's my proposal:
 That will be indicative of the morals of A.I.
 
 ## Proposal:
-
-In such future scenario, AGI has *infinite* intelligence. It is so smart that no human can match its level of intelligence. It might as well be God. The question with God isn't whether God is smart or not. It is **whether God is just.**
-
 
 I believe we need to simulate LLMs in a game environment (just like real-life), because of the following reasons:
 1. We can control the ground-truths (in a simulated environment)
