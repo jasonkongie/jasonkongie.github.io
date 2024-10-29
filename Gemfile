@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'jekyll-twitter-plugin'
 end
 
 
@@ -34,3 +35,6 @@ gem "webrick", "~> 1.8"
 gem "jekyll-include-cache", group: :jekyll_plugins
 
 gem 'jekyll-redirect-from'
+
+
+

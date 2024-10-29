@@ -288,6 +288,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-twitter-plugin
   
 # mimic GitHub Pages with --safe
 whitelist:
@@ -336,3 +337,4 @@ compress_html:
 
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
