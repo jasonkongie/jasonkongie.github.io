@@ -19,5 +19,10 @@ A big part of what makes research so enjoyable for me is belonging to a wonderfu
 
 **Projects and Publications**
 ======
-- **TinyAgentQuantization-aware Model Compression and Adaptation for On-device LLM Agent Deployment**
-  - We introduce a novel LLM edge deployment solution to automatically fine-tune and compress domain-specific LLMs with up to 8x memory saving and inference speedup with minimal performance loss. This work was presented at the ICML 2024 ES-FoMo-II workshop.
+**TinyAgentQuantization-aware Model Compression and Adaptation for On-device LLM Agent Deployment**
+- We introduce a novel LLM edge deployment solution to automatically fine-tune and compress domain-specific LLMs with up to 8x memory saving and inference speedup with minimal performance loss. This work was presented at the ICML 2024 ES-FoMo-II workshop.
+
+**Awards**
+======
+**Best Poster Award - PRISM Annual Review**
+- I was awarded the best poster award for PRISM Annual Review for Theme 1 - Systems & Software. November 8, 2024. 
