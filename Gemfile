@@ -38,3 +38,9 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'jekyll-redirect-from'
 
 gem 'faraday-retry'
+
+gem 'jekyll-paginate'
+
+gem "jekyll-gist"
+
+gem 'kramdown-parser-gfm'
